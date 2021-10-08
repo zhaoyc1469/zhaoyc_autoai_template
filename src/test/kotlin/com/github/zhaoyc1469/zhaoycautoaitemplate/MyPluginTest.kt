@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.zhaoyc1469.zhaoycautoaitemplate
 
 import com.intellij.ide.highlighter.XmlFileType
 import com.intellij.psi.xml.XmlFile
